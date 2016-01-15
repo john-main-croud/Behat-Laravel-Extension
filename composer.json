@@ -24,5 +24,6 @@
         "phpspec/phpspec": "~2.1",
         "symfony/symfony": "~3.0",
         "behat/mink-extension": "~2.0"
-    }
+    },
+    "minimum-stability": "dev"
 }
